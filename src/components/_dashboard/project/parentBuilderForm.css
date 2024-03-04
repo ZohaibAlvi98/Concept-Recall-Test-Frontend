@@ -1,0 +1,7 @@
+.my-swal {
+    /* Your custom styles go here */
+    border: '20px solid red';
+    padding: '10px';
+    z-index: 10000;
+    /* Add any other styles you need */
+  }
